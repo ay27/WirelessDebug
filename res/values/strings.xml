@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WirelessDebug</string>
+    <string name="open_ok">打开成功</string>
+    <string name="close_ok">关闭成功</string>
+</resources>
